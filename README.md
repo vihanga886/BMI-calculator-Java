@@ -2,6 +2,9 @@
 
 This is a simple Body Mass Index (BMI) calculator application built using Java Swing. The app allows users to calculate their BMI based on their weight and height. It features a user-friendly graphical interface for easy interaction.
 
+![Screenshot 2024-09-21 193544](https://github.com/user-attachments/assets/0932dd76-5d3c-4f0c-b986-69979ed74077)
+
+
 ## Features
 
 - Calculate BMI based on weight and height
